@@ -1,5 +1,6 @@
 # tervetuloabotti
 
+HUOM! Sinulla täytyy olla asenettuna node.js https://nodejs.org/en/
 
 Ennen käyttöä sinun täytyy mennä tiedostoon config.json
 
